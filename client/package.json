@@ -1,0 +1,69 @@
+{
+  "name": "motivesfrontend",
+  "version": "0.1.0",
+  "private": true,
+  "main": "../src/index.js",
+  "homepage": ".",
+  "dependencies": {
+    "@chakra-ui/icons": "^1.1.1",
+    "@chakra-ui/react": "^1.7.3",
+    "@date-io/date-fns": "^2.11.0",
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@material-ui/core": "^4.12.3",
+    "@mui/icons-material": "^5.1.0",
+    "@mui/material": "^5.1.0",
+    "@reach/combobox": "^0.16.5",
+    "@react-google-maps/api": "^2.4.1",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "axios": "^0.23.0",
+    "classnames": "^2.3.1",
+    "emotion": "^11.0.0",
+    "framer-motion": "4.1.17",
+    "jwt-decode": "^3.1.2",
+    "mui": "^0.0.1",
+    "processenv": "^3.0.9",
+    "react": "^17.0.2",
+    "react-datepicker": "^4.5.0",
+    "react-datetime-picker": "^3.4.3",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.3.1",
+    "react-redux": "^7.2.5",
+    "react-router": "^5.2.1",
+    "react-router-dom": "^5.3.0",
+    "react-scripts": "4.0.3",
+    "react-scroll": "^1.8.4",
+    "react-select-search": "^3.0.9",
+    "use-places-autocomplete": "^1.11.0",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@material-ui/icons": "^4.11.2"
+  }
+}

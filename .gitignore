@@ -1,0 +1,7 @@
+/src/utils/CONSTANTS.js
+/client/src/CONSTANTS.js
+/client/src/node_modules
+
+# dependencies
+/node_modules
+/.idea
